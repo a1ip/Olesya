@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /$
+Disallow: /
+Host: olesya.rigovanov.ru
+
+Sitemap: https://olesya.rigovanov.ru/sitemap.xml
