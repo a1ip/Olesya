@@ -51,7 +51,6 @@ body, #container {
   position: relative;
   width: var(--layer-1-width);
   overflow: visible;
-  width: 50%;
   margin: 350px auto 0;
 }
 
